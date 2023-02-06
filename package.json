@@ -1,0 +1,27 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "login",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mantine/core": "^5.10.3",
+    "@mantine/hooks": "^5.10.3",
+    "@mantine/modals": "^5.10.3",
+    "@next/font": "13.1.6",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "moment": "^2.29.4",
+    "mysql2": "^3.1.0",
+    "next": "13.1.6",
+    "passport": "^0.6.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
